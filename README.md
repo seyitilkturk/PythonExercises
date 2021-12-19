@@ -1,8 +1,11 @@
 # Python Exercises
 
-I am planning to solve some Python exercises in the following webpage: [Here](https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/)
+I am planning to solve some Python exercises in the following webpages: 
+* [GeeksforGeeks](https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/)
+* [W3Resources](https://www.w3resource.com/python-exercises)
 
 ## Exercises List
 
 * E001: Python program to interchange first and last elements in a list
 * E002: Python program to swap two elements in a list
+* E003: Get the Python Version
