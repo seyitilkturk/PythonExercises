@@ -5,3 +5,4 @@ I am planning to solve some Python exercises in the following webpage: [Here](ht
 ## Exercises List
 
 * E001: Python program to interchange first and last elements in a list
+* E002: Python program to swap two elements in a list
