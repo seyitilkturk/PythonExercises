@@ -13,3 +13,4 @@ I am planning to solve some Python exercises in the following webpages:
 * E005: Input a Filename and Print the Extension of That
 * E006: Display the First and Last Colors from a Given List
 * E007: Print the Calendar of a Given Month and Year
+* E008: Calculate Number of Days Between Two Dates
