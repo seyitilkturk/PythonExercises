@@ -11,3 +11,4 @@ I am planning to solve some Python exercises in the following webpages:
 * E003: Get the Python Version
 * E004: Display the Current Date and Time
 * E005: Input a Filename and Print the Extension of That
+* E006: Display the First and Last Colors from a Given List
