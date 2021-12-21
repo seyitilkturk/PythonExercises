@@ -12,3 +12,4 @@ I am planning to solve some Python exercises in the following webpages:
 * E004: Display the Current Date and Time
 * E005: Input a Filename and Print the Extension of That
 * E006: Display the First and Last Colors from a Given List
+* E007: Print the Calendar of a Given Month and Year
